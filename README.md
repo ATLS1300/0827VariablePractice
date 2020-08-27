@@ -9,17 +9,18 @@ When you download the repository, you'll create a folder with the two needed fil
 
 You do not need to submit this assignment.
 
-### Instructions for Jupyter
-<br>Open <b>Jupyter Notebook</b> from the Anaconda Navigator.
+## Instructions for Jupyter
+Open <b>Jupyter Notebook</b> from the Anaconda Navigator.
+<br>
 <br>Using the Notebook interface that opens, navigate to <b>Downloads > 0827StringVariablePractice folder</b> and open the <b>ipnyb</b> file.
 <br>
 <br>In that file, you'll find detailed instructions for completing the activity.
 
-### Instructions for using .py file
-<br>Open the .py file in your IDE.
+## Instructions for using .py file
+Open the <code>Assignment1.py</code> file in your IDE.
 <br>
-<br>In that file, fill the space underneath each comment with your code.
+<br>Fill the space underneath each comment with your code.
 <br>
-<br>In your shell, run the <code>Assignment1.py</code> file.
+<br>In your shell, run <code>Assignment1.py</code>.
 <br><br>
 
