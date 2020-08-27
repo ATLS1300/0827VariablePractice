@@ -1,5 +1,5 @@
-# 0827StringVariablePractice
-Learning to make variables
+# 0827VariablePractice
+<i>Learning to make variables!</i>
 <br><br>
 In this repository, you will find 2 files to help you learn how to make string variables in Python.
   <br><b>Assignment1.ipnyb
